@@ -1,0 +1,22 @@
+n = int(input('Digite um número: '))
+r1 = n*1
+r2 = n*2
+r3 = n*3
+r4 = n*4
+r5 = n*5
+r6 = n*6
+r7 = n*7
+r8 = n*8
+r9 = n*9
+r10 = n*10
+print('A tabuada do número {} é:'.format(n))
+print(n,'x','1=', r1)
+print(n,'x','2=', r2)
+print(n,'x','3=', r3)
+print(n,'x','4=', r4)
+print(n,'x','5=', r5)
+print(n,'x','6=', r6)
+print(n,'x','7=', r7)
+print(n,'x','8=', r8)
+print(n,'x','9=', r9)
+print(n,'x','10=', r10)
